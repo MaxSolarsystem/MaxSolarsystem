@@ -7,7 +7,9 @@
 💬 不论任何问题，欢迎大家与我交流、讨论、分享经验<br>
 📫 联系我：renyh2001@163.com<br>
 
-<a href="https://home.maxcosmos.top" target="_blank">如果对我不了解，欢迎来我的个人主页玩玩！</a>
+<a href="https://home.maxcosmos.top" target="_blank">如果想更全面的认识我，欢迎来我的主页玩玩！</a><br>
+<a href="https://doc.maxcosmos.top" target="_blank">如果你也想学习计算机，就看这里！</a><br>
+<a href="https://blog.maxcosmos.top" target="_blank">我的博客，是我的嘴替！</a><br>
 
 ![](https://img.shields.io/badge/计算机-工程师-blue)
 ![](https://img.shields.io/badge/01年-水瓶座-green)
