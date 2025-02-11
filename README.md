@@ -9,7 +9,7 @@
 
 <a href="https://home.maxcosmos.top" target="_blank">如果想更全面的认识我，欢迎来我的主页玩玩！</a><br>
 <a href="https://doc.maxcosmos.top" target="_blank">如果你也想学习计算机，就看这里！</a><br>
-<a href="https://blog.maxcosmos.top" target="_blank">我的博客，是我的嘴替！</a><br>
+<a href="https://blog.maxcosmos.top" target="_blank">我的博客，记录着日常的学习和总结！</a><br>
 
 ![](https://img.shields.io/badge/计算机-工程师-blue)
 ![](https://img.shields.io/badge/01年-水瓶座-green)
