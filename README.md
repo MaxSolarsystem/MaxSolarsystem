@@ -15,3 +15,6 @@
 ![](https://img.shields.io/badge/01年-水瓶座-green)
 ![](https://img.shields.io/badge/积极-乐观-yellow)
 ![](https://img.shields.io/badge/唱歌-音乐-purple)
+
+✨ **座右铭**  
+"尽吾志也而不能至者，可以无悔矣。"  - 王安石
